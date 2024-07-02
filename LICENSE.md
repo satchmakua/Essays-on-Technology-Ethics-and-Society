@@ -1,6 +1,5 @@
 Hamilton Unified License (HUL)
 
-Introduction
 This license outlines the terms and conditions under which you, the licensee, are permitted to use, modify, and distribute the work contained in this repository. This includes all written works, software, and other materials specified as being under this license.
 
 Definitions
