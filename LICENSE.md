@@ -1,6 +1,5 @@
 Hamilton Unified License (HUL)
 
-Introduction
 This license outlines the terms and conditions under which you, the licensee, are permitted to use, modify, and distribute the work contained in this repository. This includes all written works, software, and other materials specified as being under this license.
 
 Definitions
@@ -37,6 +36,5 @@ Miscellaneous
 - Governing Law: This license and any disputes arising from it shall be governed by the laws of your jurisdiction.
 - Severability: If any provision of this license is held to be invalid or unenforceable, the remaining provisions will continue in full force and effect.
 
-Contact Information
 For questions, clarifications, or to seek permissions beyond the scope of this license, please contact [satchhamilton@gmail.com].
 
